@@ -1,6 +1,6 @@
 # MADLayoutAssignmentPart1
 
-### A. I do not change anything apart from the code itself. No changes on the asset folders and the pubspec.yaml file. It is as original as it was.
+### A. I do not change anything apart from the code itself. No changes on the asset folders and the pubspec.yaml file. Focus solely on my code.
 ### B. I created the layout using row and column widgets.
 ### C. Each raised button is clickable and every click or tap will toggle ON/OFF.
 ### D. ON/OFF toggles will change:
